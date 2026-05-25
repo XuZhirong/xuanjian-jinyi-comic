@@ -79,8 +79,8 @@ Composition requirements:
 - Include only the following planned text lines. Respect the speaker and kind; place dialogue near the speaker, commands near 太元, chants near the scripture/ritual source, and sfx near the sound source:
 - dialogue / 程圜: 「前辈…前辈虽然不常参与世俗，可前辈与我也算有交情。」
 - dialogue / 太元: 「程圜…这是果位之争。」
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.

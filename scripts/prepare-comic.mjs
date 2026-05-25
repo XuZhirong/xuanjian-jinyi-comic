@@ -218,6 +218,9 @@ const textPlans = {
 
 const textAccuracyRules = {
   3: "Critical text accuracy: the wall-inside child must say exactly 「小堂弟，你又来了。」. The second character pair is 「堂弟」, meaning younger male cousin, not 「学弟」 or any other wording. Keep this as a speech bubble from inside the wall.",
+  4: "Critical text and visual accuracy: the recited line must be exactly 「你听好了，这最后一句是：【性命炼罡无玄兼，方知乘变在三檐】。」. The character is 「罡」, not 显, 异, 里, or any other variant. Visually make the three broken fingers unmistakable but restrained: do not rely only on dialogue.",
+  10: "Critical text accuracy: the final dialogue must be exactly 「这样大的好事，我要回去禀报师尊才是。」. The word is 「禀报」, not 「票报」, 「稟报」, or any other variant.",
+  13: "Critical text accuracy and cleanup: include only the two planned dialogue lines. Do not write readable text on the Thunder Palace plaque, do not write 「雷雷」, do not add side chapter labels, seals, page numbers, or random extra Chinese.",
   22: "Critical text accuracy: copy the four-line command exactly. The final line is exactly 「闰位，为吾车舆。」. The last two characters are 「车舆」, not 「车典」, not 「车與」, not any other variant. Do not create side plaques or extra labels for 庚位、兑位、余位、闰位.",
   23: "Critical text accuracy: copy the command exactly as 「予为金变无上，予为更易第一，请号——『金一太元上青玄道』！」. Do not add any other title, seal text, side labels, or page number.",
 };
@@ -264,7 +267,7 @@ const pages = [
     aspect: "3:4",
     source: "正文31-44行",
     image: "assets/pages/04-broken-fingers.png",
-    scene: "整页压迫构图：王蕃的右手从墙缝艰难伸入，墙内一只小靴子踩下，墙外他蜷缩在雪里，眼睛发红但不哭。血色极克制，只在雪上一点朱红。",
+    scene: "整页压迫构图：王蕃的右手从墙缝艰难伸入，墙内一只小靴子踩下，三根断指必须清楚地落在墙内阴影与雪边，但血色极克制；墙外他蜷缩在雪里，眼睛发红但不哭。",
     plannedText: ["大人，你只把他当做那道人的手指，痛快地踩断了。", "这样的经书你也背不会！", "你听好了，这最后一句是：【性命炼罡无玄兼，方知乘变在三檐】。"],
   },
   {
@@ -363,7 +366,7 @@ const pages = [
     aspect: "3:4",
     source: "正文135-145行",
     image: "assets/pages/13-cinnabar-suppression.png",
-    scene: "金衣王蕃抱剑立于云上，神情平静；朱砂色天光从上方镇下，紫雷宫殿发出无声震动，兑金风暴在他身后像巨大羽刃旋转。",
+    scene: "金衣王蕃抱剑立于云上，神情平静；朱砂色天光从上方镇下，紫雷宫殿发出无声震动，兑金风暴在他身后像巨大羽刃旋转。雷宫牌匾和建筑纹理不可出现可读文字。",
     plannedText: ["社稷助我成道，我助盛土覆雷，何来的忘恩负义？", "今日…我虽陨落，可天下人…皆知你丑恶！"],
   },
   {
@@ -506,7 +509,7 @@ PAGE ${page.n}: ${page.title}
 Timeline role: ${page.timeline}
 Source anchor: ${page.source}
 Scene: ${page.scene}
-Silent visual bridge: ${visualBridges[page.n] ?? "Use composition, gesture, repeated motifs, and panel order to make the plot readable without explanatory narrator plannedText."}
+Silent visual bridge: ${visualBridges[page.n] ?? "Use composition, gesture, repeated motifs, and panel order to make the plot readable without explanatory narrator text."}
 ${textAccuracyRules[page.n] ? `Text accuracy hard rule: ${textAccuracyRules[page.n]}` : ""}
 
 Composition requirements:
@@ -516,8 +519,8 @@ Composition requirements:
 - Do not force the page title into the image unless it naturally reads as a chapter title or inscription.
 - Include only the following planned text lines. Respect the speaker and kind; place dialogue near the speaker, commands near 太元, chants near the scripture/ritual source, and sfx near the sound source:
 ${captionText}
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.

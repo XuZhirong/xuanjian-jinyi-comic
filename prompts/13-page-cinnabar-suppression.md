@@ -67,9 +67,9 @@ CHARACTER CONTINUITY:
 PAGE 13: 雷宫覆灭之二
 Timeline role: 覆雷宫
 Source anchor: 正文135-145行
-Scene: 金衣王蕃抱剑立于云上，神情平静；朱砂色天光从上方镇下，紫雷宫殿发出无声震动，兑金风暴在他身后像巨大羽刃旋转。
+Scene: 金衣王蕃抱剑立于云上，神情平静；朱砂色天光从上方镇下，紫雷宫殿发出无声震动，兑金风暴在他身后像巨大羽刃旋转。雷宫牌匾和建筑纹理不可出现可读文字。
 Silent visual bridge: 读者应从云上王蕃、朱砂天光、雷宫颤动看懂：这是谋局镇压，不是单挑爽战。
-
+Text accuracy hard rule: Critical text accuracy and cleanup: include only the two planned dialogue lines. Do not write readable text on the Thunder Palace plaque, do not write 「雷雷」, do not add side chapter labels, seals, page numbers, or random extra Chinese.
 
 Composition requirements:
 - Make this a polished full comic page plate, not a concept sketch.
@@ -79,8 +79,8 @@ Composition requirements:
 - Include only the following planned text lines. Respect the speaker and kind; place dialogue near the speaker, commands near 太元, chants near the scripture/ritual source, and sfx near the sound source:
 - dialogue / 王蕃: 「社稷助我成道，我助盛土覆雷，何来的忘恩负义？」
 - dialogue / 雷宫尊者: 「今日…我虽陨落，可天下人…皆知你丑恶！」
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.

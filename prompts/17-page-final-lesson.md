@@ -80,8 +80,8 @@ Composition requirements:
 - dialogue / 太元: 「盈昃前辈…为你们安排的太妥当了。」
 - dialogue / 太元: 「可这是果位之争！」
 - dialogue / 太元: 「我来替祂…为你上这最后一课罢。」
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.

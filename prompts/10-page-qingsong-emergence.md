@@ -69,7 +69,7 @@ Timeline role: 青松观回忆
 Source anchor: 正文77-98行
 Scene: 青松观高殿，层层玉阶与松雪，黑衣太鸿、白衣太洮、金白衣张元禹在殿内，远处大人出关的青金光辉压低所有人的视线。
 Silent visual bridge: 读者应从青松观高殿、空位、众人低首看懂：青松观出关牵动道统格局。
-
+Text accuracy hard rule: Critical text accuracy: the final dialogue must be exactly 「这样大的好事，我要回去禀报师尊才是。」. The word is 「禀报」, not 「票报」, 「稟报」, or any other variant.
 
 Composition requirements:
 - Make this a polished full comic page plate, not a concept sketch.
@@ -80,8 +80,8 @@ Composition requirements:
 - dialogue / 黑衣真人: 「两位师兄，大人出关了！」
 - dialogue / 太洮: 「大人已经金仙了？」
 - dialogue / 太洮: 「这样大的好事，我要回去禀报师尊才是。」
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.

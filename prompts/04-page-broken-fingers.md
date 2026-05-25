@@ -67,9 +67,9 @@ CHARACTER CONTINUITY:
 PAGE 4: 断指
 Timeline role: 王蕃童年
 Source anchor: 正文31-44行
-Scene: 整页压迫构图：王蕃的右手从墙缝艰难伸入，墙内一只小靴子踩下，墙外他蜷缩在雪里，眼睛发红但不哭。血色极克制，只在雪上一点朱红。
+Scene: 整页压迫构图：王蕃的右手从墙缝艰难伸入，墙内一只小靴子踩下，三根断指必须清楚地落在墙内阴影与雪边，但血色极克制；墙外他蜷缩在雪里，眼睛发红但不哭。
 Silent visual bridge: 读者应从墙缝、靴底、断指、王蕃不哭的眼神看懂：屈辱被记成道心。
-
+Text accuracy hard rule: Critical text and visual accuracy: the recited line must be exactly 「你听好了，这最后一句是：【性命炼罡无玄兼，方知乘变在三檐】。」. The character is 「罡」, not 显, 异, 里, or any other variant. Visually make the three broken fingers unmistakable but restrained: do not rely only on dialogue.
 
 Composition requirements:
 - Make this a polished full comic page plate, not a concept sketch.
@@ -80,8 +80,8 @@ Composition requirements:
 - dialogue / 王蕃: 「大人，你只把他当做那道人的手指，痛快地踩断了。」
 - dialogue / 王蕃: 「这样的经书你也背不会！」
 - dialogue / 墙内堂兄: 「你听好了，这最后一句是：【性命炼罡无玄兼，方知乘变在三檐】。」
-- Avoid explanatory narrator plannedText. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
-- A small seal-like scene marker, chapter tag, or ritual inscription is allowed if it improves orientation and preserves the epic tone.
+- Avoid explanatory narrator text. Plot clarity should primarily come from visual storytelling: panel order, eye lines, repeated hand/snow/gold-ring motifs, lighting, scale shifts, and scene transitions.
+- Avoid extra readable text beyond the planned lines. Do not add page numbers, random seals, side chapter labels, plaque text, watermark, logo, UI, or invented Chinese.
 - Do not add random English, extra invented Chinese, watermark, logo, UI, or modern objects.
 - Keep the composition clean and premium: no scale-like texture, no dirty speckles, no random stains over faces, no chaotic collage artifacts, no overfilled tiny panels.
 - If using the character reference sheet, use it only for identity, clothing direction, and color motifs; do not copy its collage layout, texture strips, or noisy surface artifacts.
