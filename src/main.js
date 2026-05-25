@@ -47,7 +47,7 @@ for (const page of comic.pages) {
   thumb.className = "thumb";
   thumb.type = "button";
   thumb.setAttribute("aria-label", `跳转到第 ${page.n} 页`);
-  thumb.innerHTML = `<img src="${thumbSrc}" alt="" loading="lazy" />`;
+  thumb.innerHTML = `<img src="${thumbSrc}" alt="" loading="eager" decoding="async" />`;
   thumb.addEventListener("click", () => article.scrollIntoView({ behavior: "smooth", block: "start" }));
   thumbsEl.append(thumb);
 }
