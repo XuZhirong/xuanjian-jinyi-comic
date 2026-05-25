@@ -4,8 +4,6 @@ node_modules/
 public/
 dist/
 reviews/
-金一驭道.txt
 *.log
-.DS_Store
-.vercel
 .env*
+金一驭道.txt
