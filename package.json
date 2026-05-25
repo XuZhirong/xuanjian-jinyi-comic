@@ -1,0 +1,16 @@
+{
+  "name": "xuanjian-jinyi-comic",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "vite --host 127.0.0.1",
+    "make:thumbs": "node scripts/make-thumbnails.mjs",
+    "prepare:public": "rm -rf public && mkdir -p public && cp -R assets data public/",
+    "build": "npm run prepare:public && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "vite": "^7.2.4"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="《玄鉴仙族》金羽宗神话源流章《金一驭道》史诗漫画序章"
+    />
+    <title>金一驭道｜玄鉴仙族漫画序章</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main id="app">
+      <section class="hero" aria-labelledby="title">
+        <div class="hero__image">
+          <img src="/assets/pages/23-gold-one-taiyuan-shangqing.png" alt="金一太元上青玄道" />
+        </div>
+        <div class="hero__copy">
+          <p class="eyebrow">玄鉴仙族 · 金羽宗神话源流</p>
+          <h1 id="title">金一驭道</h1>
+          <p class="dek">从雪夜断指，到借庚成兑。二十三页史诗序章。</p>
+          <a class="jump" href="#reader">开始阅读</a>
+        </div>
+      </section>
+
+      <nav class="rail" aria-label="漫画页导航">
+        <div class="rail__inner" id="thumbs"></div>
+      </nav>
+
+      <section class="reader" id="reader" aria-label="漫画正文">
+        <div id="pages" class="pages"></div>
+      </section>
+    </main>
+
+    <dialog id="viewer" class="viewer" aria-label="大图查看">
+      <button class="viewer__close" type="button" aria-label="关闭">×</button>
+      <img alt="" />
+    </dialog>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

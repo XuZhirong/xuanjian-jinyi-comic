@@ -1,0 +1,9 @@
+.cache/
+node_modules/
+.vercel/
+public/
+dist/
+reviews/
+金一驭道.txt
+*.log
+.DS_Store

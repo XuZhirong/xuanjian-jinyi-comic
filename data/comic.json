@@ -1,0 +1,404 @@
+{
+  "title": "金一驭道",
+  "subtitle": "玄鉴仙族 · 金羽宗神话源流漫画序章",
+  "visualBible": "# 《金一驭道》漫画视觉设定\n\n类型：史诗序章式仙侠漫画，不按普通单章线性剧情处理。\n\n视觉 thesis：冷雪凡尘与天外金位互相剪接，水墨厚线、冷金法光、朱砂因果、紫雷旧秩序共同构成“从断指到驭道”的神话闭环。\n\n画风：clean Chinese ink-brush xianxia graphic novel, cinematic manga page composition, broad smooth ink washes, crisp controlled linework, large negative space, restrained color accents, realistic Chinese historical clothing, integrated readable Chinese comic typography, no modern objects.\n\n主色：snow white, deep ink black, cold imperial gold, blue-green qing aura, cinnabar red, violet thunder.\n\n干净度要求：\n- 画面要清爽、克制、留白充足，避免“鳞片感”、脏点、过密碎纹、随机斑驳、AI 拼贴感。\n- 纸纹只能是很轻的宣纸底色，不要颗粒噪声，不要让纹理覆盖人物脸、手和法光主体。\n- 金色法光要像干净的锋刃、秩序线、宽幅光带，不要画成鱼鳞、甲片、碎玻璃皮肤、金箔颗粒或奢华装饰贴片。\n- 人物服饰可以华贵，但轮廓必须干净，面部必须清晰。\n\n核心母题：\n- 手：冻紫的手、墙缝断指、张元禹醒后隐痛的手、祖师掌中的金环、最终号令庚兑的权柄之手。\n- 雪：凡人苦难、门第冷酷、旧怨回声。\n- 金：不是富贵金，而是锋锐、冷冽、法则重排。\n- 雷：旧秩序、雷宫、被镇压的权威。\n- 青：衍华上青、制衡阴阳、玄道正名。\n\n设定约束：\n- 王蕃、张元禹、太元真君是同一条因果身份链，不能画成互不相关的三人。\n- 金羽宗源流不是普通金系宗门，而是通玄冲世金一与青玄衍华上青相接。\n- 雷宫覆灭不是单纯复仇爽点，而是社稷、世家、真炁、天道受损交织的大局谋算。\n- 程圜之战不是普通斗法，而是果位之争。\n- 最终“金一太元上青玄道”是道号/玄道正名，不是单一法术名。\n\n连续性要求：人物面孔和服饰必须保持连续，尤其是王蕃少年与太元成人之间的眼神、右手残痛、冷静气质。",
+  "characters": [
+    {
+      "id": "wang-fan-child",
+      "name": "少年王蕃",
+      "role": "雪夜求经的凡人少年，后续太元因果源头",
+      "look": "very thin Chinese boy, about 10-12, frostbitten cheeks, ragged patched animal-hide robe, broken bowl, dark watchful eyes, right hand later maimed, humble posture hiding stubbornness"
+    },
+    {
+      "id": "taiyuan",
+      "name": "张元禹 / 太元真君 / 王蕃",
+      "role": "金羽宗神话源流核心，金一太元上青玄道正名者",
+      "look": "adult Chinese Daoist man, early middle age, fixed identity across all pages: tied black hair, short neat mustache and goatee, calm unreadable expression, deep eyes with gold and silver glints, cold gold-white robes, subtle circular gold halo, right hand sometimes tense as if remembering pain"
+    },
+    {
+      "id": "taihong",
+      "name": "太鸿真人",
+      "role": "青松观内洞察衍华危机的黑衣见证者",
+      "look": "black-robed Chinese Daoist, sharp brows, composed but fierce, slightly sardonic smile, dark sleeves with thin gold lines"
+    },
+    {
+      "id": "taidao",
+      "name": "太洮真人",
+      "role": "白衣旁观者，衬托青松观大事与外人误读",
+      "look": "white-robed relaxed Daoist, elegant but less severe, bright curious expression, loose posture near desk"
+    },
+    {
+      "id": "ancestor",
+      "name": "青松观祖师 / 大人",
+      "role": "衍华上青源头，授道与赐金环者",
+      "look": "middle-aged yet white-haired Chinese immortal, black-sleeved white robe, lean face, gentle smile, terrifying authority in the eyes, surrounded by layered qing-gold aura"
+    },
+    {
+      "id": "thunder-lord",
+      "name": "雷宫尊者",
+      "role": "旧秩序权威，被王蕃与社稷镇压",
+      "look": "majestic armored thunder deity, violet-gold armor fragments, face hidden by lightning, trapped inside a purple-gold palace"
+    },
+    {
+      "id": "cheng-huan",
+      "name": "程圜",
+      "role": "兑光旧主，果位之争对象",
+      "look": "dignified golden Daoist figure, bright orthodox gold aura, older and grave, standing within an ordered gold mandala"
+    }
+  ],
+  "pages": [
+    {
+      "n": 1,
+      "slug": "sanxuan-prologue",
+      "title": "三玄开卷",
+      "timeline": "神话总纲",
+      "aspect": "3:4",
+      "source": "开篇经义",
+      "image": "assets/pages/01-sanxuan-prologue.png",
+      "scene": "黑色太虚中，三道抽象法则流光生成一枚冷金小环：银白通玄如天路，冷金兑光如囿庇，青色玄气调和阴阳。画面像古籍首页和宇宙创世的结合。",
+      "plannedText": [
+        "夫经者，必从三玄出。",
+        "三一者混元齐丹，可以为【青】。",
+        "我尊日月道，闫践五德天。"
+      ],
+      "thumb": "assets/thumbs/01-sanxuan-prologue.png"
+    },
+    {
+      "n": 2,
+      "slug": "yi-county-snow",
+      "title": "毅郡暴雪",
+      "timeline": "王蕃童年",
+      "aspect": "3:4",
+      "source": "正文10-15行",
+      "image": "assets/pages/02-yi-county-snow.png",
+      "scene": "暴雪没过长街，高门朱漆干净而冷，少年王蕃抱着破碗和斑驳兽皮在墙根行走，手指冻紫，远处屋檐有暖光。",
+      "plannedText": [
+        "冻坏了手，抄不得经，更熬不过去了。"
+      ],
+      "thumb": "assets/thumbs/02-yi-county-snow.png"
+    },
+    {
+      "n": 3,
+      "slug": "warm-wall-crack",
+      "title": "墙缝暖风",
+      "timeline": "王蕃童年",
+      "aspect": "3:4",
+      "source": "正文20-30行",
+      "image": "assets/pages/03-warm-wall-crack.png",
+      "scene": "青墙裂缝一线暖风，墙外王蕃谄笑递入一枚小小乌喙，墙内只露出锦靴、暖灯、半只孩童的手。强烈对比墙外雪白与墙内暖黄。",
+      "plannedText": [
+        "堂兄！堂兄…俺来了！",
+        "小堂弟，你又来了。",
+        "好堂兄…小少爷…《少阴相气经》还有两句…"
+      ],
+      "thumb": "assets/thumbs/03-warm-wall-crack.png"
+    },
+    {
+      "n": 4,
+      "slug": "broken-fingers",
+      "title": "断指",
+      "timeline": "王蕃童年",
+      "aspect": "3:4",
+      "source": "正文31-44行",
+      "image": "assets/pages/04-broken-fingers.png",
+      "scene": "整页压迫构图：王蕃的右手从墙缝艰难伸入，墙内一只小靴子踩下，墙外他蜷缩在雪里，眼睛发红但不哭。血色极克制，只在雪上一点朱红。",
+      "plannedText": [
+        "大人，你只把他当做那道人的手指，痛快地踩断了。",
+        "这样的经书你也背不会！",
+        "你听好了，这最后一句是：【性命炼罡无玄兼，方知乘变在三檐】。"
+      ],
+      "thumb": "assets/thumbs/04-broken-fingers.png"
+    },
+    {
+      "n": 5,
+      "slug": "thunder-in-snow",
+      "title": "雪中雷声",
+      "timeline": "王蕃童年到因果预兆",
+      "aspect": "3:4",
+      "source": "正文44-45行",
+      "image": "assets/pages/05-thunder-in-snow.png",
+      "scene": "少年王蕃拖着残手踉跄入巷，雪地上留下一串浅红，云层深处紫雷滚动；他的背影后方隐约叠出成年太元的金色轮廓。",
+      "plannedText": [
+        "大人…大人背的真好，这是一点错漏都没有…",
+        "轰隆。"
+      ],
+      "thumb": "assets/thumbs/05-thunder-in-snow.png"
+    },
+    {
+      "n": 6,
+      "slug": "cosmic-gold-seat",
+      "title": "天外称兄",
+      "timeline": "终局外框",
+      "aspect": "3:4",
+      "source": "正文47-56行",
+      "image": "assets/pages/06-cosmic-gold-seat.png",
+      "scene": "天外黑暗，庞大金位真身如山岳高冠，另一端白金兑光耀如大日，两尊法则级存在隔着虚空对峙，银白椭圆光柱穿梭天地。",
+      "plannedText": [
+        "师兄。",
+        "道友客气了。",
+        "【恭华】与【衍华】…本是同门…"
+      ],
+      "thumb": "assets/thumbs/06-cosmic-gold-seat.png"
+    },
+    {
+      "n": 7,
+      "slug": "causal-brotherhood",
+      "title": "同门因果",
+      "timeline": "终局外框",
+      "aspect": "3:4",
+      "source": "正文113-122行",
+      "image": "assets/pages/07-causal-brotherhood.png",
+      "scene": "白金身影伸手按住一缕写意因果红线，线另一端连向青色古观和太阳道影；他身后浮现少年断指影子与玄兑诛雷的锋芒。",
+      "plannedText": [
+        "同门相残…",
+        "你若是怕同门相残伤了感情，不如称我另一个名字。",
+        "『玄兑诛雷冲曜真君』。王蕃。"
+      ],
+      "thumb": "assets/thumbs/07-causal-brotherhood.png"
+    },
+    {
+      "n": 8,
+      "slug": "zhang-yuanyu-awakes",
+      "title": "张元禹醒",
+      "timeline": "青松观回忆",
+      "aspect": "3:4",
+      "source": "正文58-76行",
+      "image": "assets/pages/08-zhang-yuanyu-awakes.png",
+      "scene": "青松观案台前，成人张元禹从沉思中醒来，轻轻甩动右手，手旁幻化出少年断指的冰冷残影；桌上摊着道经，三处墨迹像被人改过。",
+      "plannedText": [
+        "张师兄！",
+        "难得见你走神。",
+        "前世。"
+      ],
+      "thumb": "assets/thumbs/08-zhang-yuanyu-awakes.png"
+    },
+    {
+      "n": 9,
+      "slug": "false-scripture",
+      "title": "伪经三字",
+      "timeline": "青松观回忆",
+      "aspect": "3:4",
+      "source": "正文70-77行",
+      "image": "assets/pages/09-false-scripture.png",
+      "scene": "近景：张元禹修长的手指压住旧经卷，三处字位化作黑洞般空白；白衣太洮惊讶，太元低眉微笑，背后有被他反向操控的丝线。",
+      "plannedText": [
+        "遭人蒙骗，经中改了三个字。",
+        "能引出气来，却炼不成道。",
+        "我又用那道经算计了别人，换了别的回来。"
+      ],
+      "thumb": "assets/thumbs/09-false-scripture.png"
+    },
+    {
+      "n": 10,
+      "slug": "qingsong-emergence",
+      "title": "青松出关",
+      "timeline": "青松观回忆",
+      "aspect": "3:4",
+      "source": "正文77-98行",
+      "image": "assets/pages/10-qingsong-emergence.png",
+      "scene": "青松观高殿，层层玉阶与松雪，黑衣太鸿、白衣太洮、金白衣张元禹在殿内，远处大人出关的青金光辉压低所有人的视线。",
+      "plannedText": [
+        "两位师兄，大人出关了！",
+        "大人已经金仙了？",
+        "这样大的好事，我要回去禀报师尊才是。"
+      ],
+      "thumb": "assets/thumbs/10-qingsong-emergence.png"
+    },
+    {
+      "n": 11,
+      "slug": "yanhua-stands-alone",
+      "title": "衍华自立",
+      "timeline": "青松观回忆",
+      "aspect": "3:4",
+      "source": "正文99-111行",
+      "image": "assets/pages/11-yanhua-stands-alone.png",
+      "scene": "黑衣太鸿斟酒，酒面倒映紫雷宫阙崩塌；张元禹缓缓回头，冷金轮光浮起。殿外青松与雪，殿内一场未出口的道统分裂。",
+      "plannedText": [
+        "那恭华呢。",
+        "自号一道【衍华】，又有何不可？",
+        "所以雷宫倒了。"
+      ],
+      "thumb": "assets/thumbs/11-yanhua-stands-alone.png"
+    },
+    {
+      "n": 12,
+      "slug": "thunder-palace-falls",
+      "title": "雷宫覆灭之一",
+      "timeline": "覆雷宫",
+      "aspect": "3:4",
+      "source": "正文124-132行",
+      "image": "assets/pages/12-thunder-palace-falls.png",
+      "scene": "紫金色雷宫高悬天际，被无数白金兑风围困；大地裂开，煞火和熔浆从裂缝喷涌，铠甲碎片如雨下坠，旧秩序摇摇欲坠。",
+      "plannedText": [
+        "大夏已灭。",
+        "王蕃！你…忘恩负义。"
+      ],
+      "thumb": "assets/thumbs/12-thunder-palace-falls.png"
+    },
+    {
+      "n": 13,
+      "slug": "cinnabar-suppression",
+      "title": "雷宫覆灭之二",
+      "timeline": "覆雷宫",
+      "aspect": "3:4",
+      "source": "正文135-145行",
+      "image": "assets/pages/13-cinnabar-suppression.png",
+      "scene": "金衣王蕃抱剑立于云上，神情平静；朱砂色天光从上方镇下，紫雷宫殿发出无声震动，兑金风暴在他身后像巨大羽刃旋转。",
+      "plannedText": [
+        "社稷助我成道，我助盛土覆雷，何来的忘恩负义？",
+        "今日…我虽陨落，可天下人…皆知你丑恶！"
+      ],
+      "thumb": "assets/thumbs/13-cinnabar-suppression.png"
+    },
+    {
+      "n": 14,
+      "slug": "great-snow-memory",
+      "title": "好大一场雪",
+      "timeline": "覆雷宫",
+      "aspect": "3:4",
+      "source": "正文136-155行",
+      "image": "assets/pages/14-great-snow-memory.png",
+      "scene": "雷宫内部的紫电面孔震惊，画面中穿插毅郡雪巷、冻僵兄妹、残手、朱砂天幕与土光遮蔽因果；王蕃的笑意冷而克制。",
+      "plannedText": [
+        "那年他成神通，王渐特地为他在豫郡下了一场雪…好大一场雪。",
+        "差点将我兄妹冻死。",
+        "你不是王家人？！不可能！"
+      ],
+      "thumb": "assets/thumbs/14-great-snow-memory.png"
+    },
+    {
+      "n": 15,
+      "slug": "damaged-heaven",
+      "title": "天道可伤",
+      "timeline": "覆雷宫到大局",
+      "aspect": "3:4",
+      "source": "正文145-155行",
+      "image": "assets/pages/15-damaged-heaven.png",
+      "scene": "抽象大局画面：天穹裂开一道细伤，世家府邸、社稷土光、真炁符印、雷宫残影被古老山河局势图牵制；王蕃立于局外，一手按住残缺金线。不要画现代棋盘。",
+      "plannedText": [
+        "天下没有一家会和你们站在一边。",
+        "原来…天道也是可以被损伤的…",
+        "很快就不是了。"
+      ],
+      "thumb": "assets/thumbs/15-damaged-heaven.png"
+    },
+    {
+      "n": 16,
+      "slug": "cheng-huan-fruit-seat",
+      "title": "果位之争",
+      "timeline": "程圜之战",
+      "aspect": "3:4",
+      "source": "正文157-164行",
+      "image": "assets/pages/16-cheng-huan-fruit-seat.png",
+      "scene": "天外金德战场，程圜站在正统金色曼荼罗中，太元的白金兑光从四方逼近；双方不做夸张武打，而是整个金位法则在倾斜。",
+      "plannedText": [
+        "前辈…前辈虽然不常参与世俗，可前辈与我也算有交情。",
+        "程圜…这是果位之争。"
+      ],
+      "thumb": "assets/thumbs/16-cheng-huan-fruit-seat.png"
+    },
+    {
+      "n": 17,
+      "slug": "final-lesson",
+      "title": "最后一课",
+      "timeline": "程圜之战",
+      "aspect": "3:4",
+      "source": "正文162-164行",
+      "image": "assets/pages/17-final-lesson.png",
+      "scene": "太元伸出右手，白金锋芒像无数细线重排天地；程圜身后的金色座位裂开，剑气不血腥但绝对压迫，画面冷静到近乎残酷。",
+      "plannedText": [
+        "盈昃前辈…为你们安排的太妥当了。",
+        "可这是果位之争！",
+        "我来替祂…为你上这最后一课罢。"
+      ],
+      "thumb": "assets/thumbs/17-final-lesson.png"
+    },
+    {
+      "n": 18,
+      "slug": "qingsong-teaching",
+      "title": "授道青松",
+      "timeline": "更早的青松观旧事",
+      "aspect": "3:4",
+      "source": "正文166-187行",
+      "image": "assets/pages/18-qingsong-teaching.png",
+      "scene": "松风大雪，青松观阁楼中玄位层次高低错落，众真人端坐如星图；白发祖师讲道，年轻太元金衣跪于殿中，太鸿在旁凝神。",
+      "plannedText": [
+        "弟子…有一事不解！",
+        "禀祖师，如今天下，阴阳不谐，大道颠乱，我道既制衡阴阳，应有谋画。",
+        "请赐制衡法。"
+      ],
+      "thumb": "assets/thumbs/18-qingsong-teaching.png"
+    },
+    {
+      "n": 19,
+      "slug": "golden-ring",
+      "title": "祖师金环",
+      "timeline": "更早的青松观旧事",
+      "aspect": "3:4",
+      "source": "正文188-201行",
+      "image": "assets/pages/19-golden-ring.png",
+      "scene": "祖师掌心一枚非金非银的小环，红光蒙蒙；太元跪地仰望，画面叠化为少年王蕃失去三指的手，金环像命运一样从掌心飞向人间。",
+      "plannedText": [
+        "可怜祖师之物，将流民间。",
+        "明阳帝君将受其谋。"
+      ],
+      "thumb": "assets/thumbs/19-golden-ring.png"
+    },
+    {
+      "n": 20,
+      "slug": "zunzhi-shangqing-palace",
+      "title": "尊执上青宫",
+      "timeline": "终局正名",
+      "aspect": "3:4",
+      "source": "正文203-205行",
+      "image": "assets/pages/20-zunzhi-shangqing-palace.png",
+      "scene": "终局第一幕：闪烁金锋以干净的长线和宽幅光带斜落，所有金气被逼到黑暗角落；尊执上青宫不是实体怪兽，而是一座纵横天地的黑金宫阙异象，像潜伏深渊的巨兽缓缓张开宫门。远天司命之光如定鼎神柱，将逃逸玄妙逼回，天底下无数剑器颤抖悲鸣。",
+      "plannedText": [
+        "今日。"
+      ],
+      "thumb": "assets/thumbs/20-zunzhi-shangqing-palace.png"
+    },
+    {
+      "n": 21,
+      "slug": "geng-dui-return",
+      "title": "庚兑归主",
+      "timeline": "终局正名",
+      "aspect": "3:4",
+      "source": "正文206-209行",
+      "image": "assets/pages/21-geng-dui-return.png",
+      "scene": "终局第二幕：金色光带如潮水褪去，庚光与白色兑光从天外、剑器、宫阙裂隙中回流，像万河归海般铺到太元脚下。太元银白瞳孔中浮现无穷锋锐，右手抬起，背后隐约重叠少年断指之手。不要画成碎鳞或金箔雨。",
+      "plannedText": [
+        "借庚成兑。"
+      ],
+      "thumb": "assets/thumbs/21-geng-dui-return.png"
+    },
+    {
+      "n": 22,
+      "slug": "four-positions-submit",
+      "title": "四位俯首",
+      "timeline": "终局正名",
+      "aspect": "3:4",
+      "source": "正文210-213行",
+      "image": "assets/pages/22-four-positions-submit.png",
+      "scene": "终局第三幕：尊执上青宫在黑暗中拱卫，司命光柱定住天穹，庚光、兑光、余位、闰位化作四道干净天轨，向太元脚下俯首。太元站在中心，右手号令万金，冷金与上青玄气环绕。画面只允许一个大对白/宣告框，不要边缘牌匾，不要额外位名标签。",
+      "plannedText": [
+        "庚位，为吾俯首，\n兑位，为吾更名，\n余位，为吾君座，\n闰位，为吾车舆。"
+      ],
+      "thumb": "assets/thumbs/22-four-positions-submit.png"
+    },
+    {
+      "n": 23,
+      "slug": "gold-one-taiyuan-shangqing",
+      "title": "金一太元上青玄道",
+      "timeline": "终局正名",
+      "aspect": "16:9",
+      "source": "正文214行",
+      "image": "assets/pages/23-gold-one-taiyuan-shangqing.png",
+      "scene": "最终宽幅封神画面：尊执上青宫、司命光柱、万剑、庚兑金路全部成为背景，太元独立天心，冷金权柄与上青玄气汇聚成一道简洁而干净的神座。画面只允许太元最后一句宣告，不要额外标题、位牌、落款、书法装饰或随机文字。",
+      "plannedText": [
+        "予为金变无上，予为更易第一，请号——『金一太元上青玄道』！"
+      ],
+      "thumb": "assets/thumbs/23-gold-one-taiyuan-shangqing.png"
+    }
+  ]
+}
